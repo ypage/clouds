@@ -1,0 +1,49 @@
+{
+  "index2.html": {
+    "href": "index2.html",
+    "resources": [
+      "css/jquery.mobile-1.4.5.min.css",
+      "js/jquery.min.js",
+      "js/jquery.mobile-1.4.5.min.js",
+      "js/zdh.js",
+      "img/yuanfu.png"
+    ],
+    "refer": [],
+    "priority": 0
+  },
+  "index.html": {
+    "href": "index.html",
+    "resources": [
+      "styles/master.css",
+      "mplayer/css/mplayer.css",
+      "mplayer/css/bootstrap.min.css",
+      "weather/jquery.min.js",
+      "weather/template-native.js",
+      "mplayer/js/jquery-2.1.1.js",
+      "mplayer/js/mplayer.js",
+      "mplayer/js/mplayer-list.js",
+      "mplayer/js/mplayer-functions.js",
+      "mplayer/js/jquery.nstSlider.min.js",
+      "scripts/libs.min.js",
+      "scripts/functions.min.js",
+      "images/teaser/main_text.png",
+      "images/teaser/main_text_sp.png",
+      "data/cloud.zip",
+      "images/teaser/main_movie_btn_play.png",
+      "css/jquery.mobile-1.4.5.min.css",
+      "img/yuanfu.png",
+      "js/jquery.min.js",
+      "js/jquery.mobile-1.4.5.min.js",
+      "js/text.js",
+      "js/zdh.js",
+      "mplayer/css/mplayer.min.css",
+      "mplayer/img/mplayer_error.png",
+      "mplayer/js/jquery.nstSlider.js",
+      "mplayer/js/mplayer.min.js"
+    ],
+    "refer": [
+      "index2.html"
+    ],
+    "priority": 0
+  }
+}
